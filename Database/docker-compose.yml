@@ -1,0 +1,22 @@
+version: '3.9'
+networks:
+  comics_shop_network:
+    name: comics_shop_network
+volumes:
+  comics_shop:
+services:
+  comics_shop:
+    container_name: database_comics_shop
+    image: mysql:latest
+    restart: always
+    networks:
+      - comics_shop_network
+    environment:
+      MYSQL_DATABASE: 'comics_shop'
+      MYSQL_USER: 'comics_shop'
+      MYSQL_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'root'
+    ports:
+      - '8091:3306'
+    volumes:
+      - comics_shop:/var/lib/mysql

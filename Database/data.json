@@ -1,0 +1,282 @@
+[
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376877/Bat01_vgtkc0.jpg",
+    "Title": "“I AM GOTHAM” Chapter One",
+    "Description": "No one has ever stopped the Caped Crusader. Not The Joker. Not Two-Face. Not even the entire Justice League. But how does Batman confront a new hero who wants to save the city from the Dark Knight?"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "I AM GOTHAM” Chapter Two",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376877/Bat02_gb7lwj.jpg",
+    "Description": "In issue #2, after a brush with disaster, Batman struggles to reconcile the fate he could be leaving behind for his city, and reaches out to the idealistic new hero, Gotham. But an evil is building that may overcome both Batman and his new ally."
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "“I AM GOTHAM” Chapter Three:",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376877/Bat03_bezffg.jpg",
+    "Description": "Batman and Gotham strike out together to get to the bottom of the mysterious attacks against the city. Could this novel and headstrong new hero be everything Gotham City needs…at the cost of the Dark Knight?"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "“I Am Gotham” Chapter Four",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376878/Bat04_bqfkoa.jpg",
+    "Description": "When Gotham City falls prey to true evil, will Batman be abandoned by the new heroes Gotham and Gotham Girl? The Dark Knight must decide who to entrust with the safety of his beloved city if he hopes for any of its citizens to survive."
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "“I Am Gotham” Chapter Five.",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376878/Bat05_tia3zj.jpg",
+    "Description": "In the final chapter of this epic, is Batman truly the hero Gotham City deserves—or does it deserve better? In this ultimate showdown, where the line between allies and enemies blurs, the question will finally be answered…and the fate of Gotham will be decided."
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "“I AM GOTHAM” epilogue.",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376877/Bat06_gqohri.jpg",
+    "Description": "In this stand-alone tale, Batman seeks redemption as he tries to keep Gotham Girl from going down a dangerous path. But can the Dark Knight save someone who doesn’t want to be saved?"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "NIGHT OF THE MONSTER MEN Part 1",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376878/Bat07_jzkvjg.jpg",
+    "Description": "The first crossover of the “Rebirth” era is here! As a huge storm approaches, Batman, Batwoman, and Nightwing try and prepare Gotham City for the worst, but nothing can prepare them for enormous tall monsters rampaging through the streets! Batman will need all of his allies to unite in order to stop these mad science monsters from tearing their city apart!"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "NIGHT OF THE MONSTER MEN Part Four",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376878/Bat08_q4d70g.jpg",
+    "Description": "The giant monsters might be bad, but Gotham’s heroes encounter a whole new threat level when two of their own start terrorizing the city! Batman must face the horrifying possibility of losing two of his closest allies to Hugo Strange’s vicious attack."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "I Am Suicide Part one",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376879/Bat09_adncbg.jpg",
+    "Description": "Batman has always been crazy…but this? This is suicide! In order to retrieve Psycho-Pirate and save Gotham Girl, Batman must recruit a team from Amanda Waller to break into the most impenetrable prison in the world and steal from one of the Dark Knight’s greatest foes…Bane. The next great Batman story begins here!"
+  },
+  {
+    "Id": 0,
+    "Price": 3.99,
+    "Title": "I am Suicide Part Two",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376879/Bat10_pojngz.jpg",
+    "Description": "Batman now has his team, but are they ready for the most dangerous mission of their lives? As the Dark Knight prepares his squad to infiltrate Santa Prisca, he may find that it’s up to him alone to face Bane."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "PATH TO DOOM I",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376879/Sups01_sxsrzk.jpg",
+    "Description": "Superman returns to Metropolis just in time to meet the city of tomorrow’s newest protector: Lex Luthor. But it’s not long before these dueling titans meet someone unexpected — the new Clark Kent!"
+  },
+  {
+    "Id": 0,
+    "Price": 4.99,
+    "Title": "PATH TO DOOM II",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376879/Sups02_dlakng.jpg",
+    "Description": "Luthor and Superman must put aside their differences and face the common threat of Doomsday, as Jimmy Olsen and the Planet staff try to uncover the truth: who is the man claiming to be Clark Kent?"
+  },
+  {
+    "Id": 0,
+    "Price": 3.99,
+    "Title": "PATH TO DOOM III",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376879/Sups03_gd5lh8.jpg",
+    "Description": "Clark Kent gets caught in the crossfire as Doomsday crashes through the streets of Metropolis! As Lois struggles to keep young Jonathan out of the path of destruction, can former enemies Superman and Lex Luthor stop the monster that once destroyed the city and killed the Man of Steel—or does Luthor have other plans?"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "PATH TO DOOM IV",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376879/Sups04_uwccfn.jpg",
+    "Description": "Wonder Woman joins the fight, but even her added might can’t slow down Doomsday’s rampage! As Superman comes face-to-face with the woman who once loved him, the Man of Tomorrow must also wrestle with the reappearance of Clark Kent."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "PATH TO DOOM V",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376880/Sups05_nxk9aj.jpg",
+    "Description": "With his family’s safety hanging in the balance, Superman confronts Doomsday to finally bring the beast’s destructive rage to an end. To save his wife and son, Superman must overcome the monster that once killed him, or die trying!"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "PATH TO DOOM VI",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376879/Sups06_uwzn82.jpg",
+    "Description": "In the epic conclusion, the mystery of Black Zero deepens just as the Man of Steel makes a fateful decision that may stop Doomsday, but also risks the lives of those he loves most."
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "WHO IS CLARK KENT? Part 1",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376881/Sups07_dmruvl.jpg",
+    "Description": "Look—down there on the ground! It’s a guy, he’s kinda ordinary...it’s—Clark Kent?! As Metropolis recovers from the devastating attack of Doomsday, the mysterious figure claiming to be Clark Kent takes the spotlight to clear his name and prove once and for all that Clark Kent is not Superman!"
+  },
+  {
+    "Id": 0,
+    "Title": "WHO IS CLARK KENT? Part 2",
+    "Price": 1.59,
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376880/Sups08_unsf3a.jpg",
+    "Description": "Superman comes face to face with Clark Kent, and he wants answers! But first the Man of Steel must protect his former alter ego. Clark Kent tells all in this shocking issue! And don’t miss the return of a ghost from Smallville past…"
+  },
+  {
+    "Id": 0,
+    "Price": 5.99,
+    "Title": "BACK AT THE PLANET I",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376881/Sups09_av6av5.jpg",
+    "Description": "Superman returns to the public eye—but what of Lois Lane? When a mysterious package arrives for Lois and Clark back on the farm, Lois can stay on the sidelines no more. But where does that leave Superman’s human doppelgänger, Clark Kent?"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "BACK IN THE PLANET II",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376881/Sups10_gaabh6.jpg",
+    "Description": "As the Daily Planet’s star returns to work, so does Lex Luthor. Meanwhile, Superman continues to investigate the devastation in the aftermath of the Doomsday attack."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "THE LIES #1",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376881/ww01_rhetbt.jpg",
+    "Description": "Why has the Lasso of Truth stopped working for the Amazon Princess? Start down the rabbit hole as dark secrets from Wonder Woman’s past unravel her present!"
+  },
+  {
+    "Id": 0,
+    "Price": 4.99,
+    "Title": "WONDER WOMAN YEAR ONE #1",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376883/ww02_j7mzd8.jpg",
+    "Description": "Running parallel to Greg Rucka and Liam Sharp’s “The Lies,” Rucka and artist Nicola Scott weave the definitive and shocking tale of Diana’s first year as Earth’s protector."
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "THE LIES #2",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376882/ww03_vqo1lh.jpg",
+    "Description": "Wonder Woman must team up with one of her greatest enemies to solve a growing mystery about Themyscira as “The Lies” continues!"
+  },
+  {
+    "Id": 0,
+    "Price": 6.99,
+    "Title": "WONDER WOMAN YEAR ONE #2",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376882/ww04_mbdoeq.jpg",
+    "Description": "Paradise has been breached, Ares stirs, and the Amazons must answer with a champion of their own…one who is willing to sacrifice her home amongst her sisters to save a world she has never seen."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "THE LIES #3",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376882/ww05_rabumy.jpg",
+    "Description": "Steve Trevor finds himself trapped in the heart of Urzkartaga’s darkness, with Wonder Woman and Cheetah the only hope of rescue for him and his men. But how far can Cheetah be trusted?"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "WONDER WOMAN YEAR ONE #3",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376888/ww06_rkihrh.jpg",
+    "Description": "Diana brings Steve back home, but the reception is not what either of them expected. Amid suspicion and a looming threat, the Patrons pay a visit, and new friendships are forged."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "THE LIES #4",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376882/ww07_qezeuq.jpg",
+    "Description": "One god down—how many more to go? Diana takes another step closer to the truth, and Steve Trevor confronts his past!"
+  },
+  {
+    "Id": 0,
+    "Price": 3.99,
+    "Title": "WONDER WOMAN #8",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376882/ww08_ga0a50.jpg",
+    "Description": "Year One Interlude: Young Barbara Ann Minerva is thrust on a quest for answers to the Amazons' most ancient secrets."
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "THE LIES #5",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376883/ww09_suauno.jpg",
+    "Description": "Diana takes another step closer to discovering the truth…and the mysterious Godwatch responds!"
+  },
+  {
+    "Id": 0,
+    "Price": 8.99,
+    "Title": "WONDER WOMAN 75TH ANNIVERSARY SPECIAL #1",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376883/ww10_zgyadw.jpg",
+    "Description": "An immense special issue celebrating seventy-five years of the Amazing Amazon, through phenomenal new stories, art, and stand-alone illustrations! Featuring a roster of incredible creators—some who’ve laid down legendary runs with the character, and some who’ve never drawn her before—including Rafael Albuquerque, Brian Azzarello, Cliff Chiang, Renae De Liz, Brenden Fletcher, Adam Hughes, Karl Kerschl, Gail Simone, and many, many more to be announced!"
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "LIGHTNING STRIKES TWICE I",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376883/flash01_ul4scr.jpg",
+    "Description": "A new storm brews over Central City and disproves the old adage about lightning never, well…you know. Just as Barry begins to feel overwhelmed fighting crime, a new speedster debuts—but just where did this amazing new friend come from?"
+  },
+  {
+    "Id": 0,
+    "Price": 4.99,
+    "Title": "LIGHTNING STRIKES TWICE II",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376884/flash02_gax7dz.jpg",
+    "Description": "In issue #2, The Flash trains novice speedster August Heart to help protect the people of Central City from the Black Hole, a new breed of rogue with a deadly agenda for the Fastest Men Alive."
+  },
+  {
+    "Id": 0,
+    "Price": 6.99,
+    "Title": "LIGHTNING STRIKES TWICE III",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376884/flash03_bjg33b.jpg",
+    "Description": "In issue #3, dozens of innocent people mysteriously gain super-speed! But not all are heroic, and it’ll take everything The Flash and August have to harness the lightning before Black Hole does."
+  },
+  {
+    "Id": 0,
+    "Price": 5.99,
+    "Title": "LIGHTNING STRIKES TWICE IV",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376885/flash04_laojwo.jpg",
+    "Description": "The leader of the science-terrorist group Black Hole has weaponized the Speed Force, leading to a final confrontation with The Flash and his new league of citizen speedsters."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "LIGHTNING STRIKES TWICE V",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376884/flash05_c3bisi.jpg",
+    "Description": "With Central City now protected by dozens of freshly trained Flashes, Barry Allen takes time out to explore a new relationship. Meanwhile, a serial killer targets citizen speedsters as Wally West takes his first steps toward becoming the new Kid Flash…"
+  },
+  {
+    "Id": 0,
+    "Price": 2.99,
+    "Title": "LIGHTNING STRIKES TWICE VI",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376884/flash06_x7zfar.jpg",
+    "Description": "You’ve seen glimpses of him. You’ve witnessed the carnage he’s unleashed on Central City. Now meet Godspeed, the super-speed serial killer who murders speedsters and steals their powers. Barry Allen is going to need help!"
+  },
+  {
+    "Id": 0,
+    "Price": 5.99,
+    "Title": "LIGHTNING STRIKES TWICE VII",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376885/flash07_busdfl.jpg",
+    "Description": "Still reeling from Godspeed’s devastating attack, the beleaguered Flash realizes that to defeat this menacing new foe he must take away the Speed Force power from Central City’s new citizen speedsters. There’s only one problem: they don’t want to give it back."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "LIGHTNING STRIKES TWICE VIII",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376886/flash08_qczr5w.jpg",
+    "Description": "When Godspeed brings his killing spree to Iron Heights, Barry Allen must protect his own Rogues Gallery—including his mother’s killer—from the deadly speedster! Luckily, The Flash has some help from Wally West, the newly christened Kid Flash!"
+  },
+  {
+    "Id": 0,
+    "Price": 3.99,
+    "Title": "KID FLASH OF TWO WORLDS!",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376886/flash09_cgt8n4.jpg",
+    "Description": "In this single-issue tale, Wally West meets Wally West! The original Kid Flash meets his cousin for the very first time in this special issue, which continues The Flashes’ investigation into the events that began in DC UNIVERSE: REBIRTH #1."
+  },
+  {
+    "Id": 0,
+    "Price": 1.99,
+    "Title": "THE SPEED OF DARKNESS I",
+    "Image": "https://res.cloudinary.com/dkzhgauk1/image/upload/v1579376886/falsh10_tkarvd.jpg",
+    "Description": "A villain from The Flash’s history returns for the first time in years when The Shade visits Central City. But what does Opal City’s master of shadow want with Barry Allen and the newly christened Kid Flash?"
+  }
+]

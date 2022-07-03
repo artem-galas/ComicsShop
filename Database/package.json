@@ -1,0 +1,16 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "seed": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^2.1.0",
+    "mysql2": "^2.3.3",
+    "uuid": "^8.3.2"
+  }
+}

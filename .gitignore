@@ -12,3 +12,5 @@ obj/
 
 # compiled app
 **/dist
+
+**/node_modules
