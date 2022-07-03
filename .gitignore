@@ -1,0 +1,14 @@
+./.idea
+**/.idea
+
+.DS_Store
+**/.DS_Store
+
+bin/
+obj/
+
+**/bin
+**/obj
+
+# compiled app
+**/dist

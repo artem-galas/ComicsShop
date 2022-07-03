@@ -1,0 +1,21 @@
+version: '3.9'
+networks:
+  comics_shop_network:
+    external: true
+services:
+  comics_shop_rest:
+    container_name: comics_shop_rest
+    image: mcr.microsoft.com/dotnet/sdk:6.0-focal
+    command: "dotnet run --urls=http://+:8093 --configuration Release"
+    working_dir: /app
+    networks:
+      - comics_shop_network
+    ports:
+      - 8093:8093
+    volumes:
+      - './:/app'
+      - '../Database/:/../Database'
+    environment:
+      - ASPNETCORE_URLS=http://+:8093
+      - ASPNETCORE_ENVIRONMENT=Production
+      - DB_CONNECTION_STRING=server=database_comics_shop;port=3306;database=comics_shop;user=comics_shop;password=password
