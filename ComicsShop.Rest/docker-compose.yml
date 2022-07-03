@@ -14,7 +14,6 @@ services:
       - 8093:8093
     volumes:
       - './:/app'
-      - '../Database/:/../Database'
     environment:
       - ASPNETCORE_URLS=http://+:8093
       - ASPNETCORE_ENVIRONMENT=Production
