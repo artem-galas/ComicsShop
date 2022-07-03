@@ -1,0 +1,41 @@
+{
+  "name": "comicsshop.nodejs",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with Fastify-CLI.",
+  "main": "app.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "npm run build:ts && fastify start -l info dist/app.js",
+    "build:ts": "tsc",
+    "dev": "tsc && concurrently -k -p \"[{name}]\" -n \"TypeScript,App\" -c \"yellow.bold,cyan.bold\" \"tsc -w\" \"fastify start --ignore-watch=.ts$ -w -l info --debug -P dist/app.js\"",
+    "knex:migrate:latest": "knex --knexfile ./knexfile.ts migrate:latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sinclair/typebox": "^0.23.4",
+    "fastify": "^3.0.0",
+    "fastify-autoload": "^3.10.0",
+    "fastify-cli": "^2.15.0",
+    "fastify-knexjs": "^1.4.0",
+    "fastify-plugin": "^3.0.0",
+    "fastify-sensible": "^3.1.2",
+    "jest": "^27.5.1",
+    "knex": "^1.0.3",
+    "mysql": "^2.18.1",
+    "ts-jest": "^27.1.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "@types/node": "^17.0.8",
+    "@types/uuid": "^8.3.4",
+    "concurrently": "^7.0.0",
+    "fastify-tsconfig": "^1.0.1",
+    "nodemon": "^2.0.15",
+    "sqlite3": "^5.0.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}

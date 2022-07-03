@@ -1,0 +1,21 @@
+version: "3.9"
+networks:
+  comics_shop_network:
+    external: true
+services:
+  comics-shop-node:
+    container_name: comics_shop_node
+    image: "node:lts-alpine3.14"
+    working_dir: /app
+    networks:
+      - comics_shop_network
+    environment:
+      DB_CONNECTION_STRING: mysql://comics_shop:password@database_comics_shop:3306/comics_shop
+      NODE_ENV: development
+      PORT: 8094
+    ports:
+      - 8094:8094
+      - 9320:9320
+    command: sh -c "npm run start"
+    volumes:
+      - .:/app
