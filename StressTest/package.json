@@ -1,0 +1,15 @@
+{
+  "name": "stresstest",
+  "author": "Artem Halas",
+  "license": "MIT",
+  "version": "1.0.0",
+  "scripts": {
+    "rest-smoke": "SERVER=rest ROUTE=smoke node test.js",
+    "node-smoke": "SERVER=node ROUTE=smoke node test.js",
+    "rest-test": "SERVER=rest ROUTE=comics node test.js",
+    "node-test": "SERVER=node ROUTE=comics node test.js"
+  },
+  "dependencies": {
+    "autocannon": "^7.9.0"
+  }
+}
