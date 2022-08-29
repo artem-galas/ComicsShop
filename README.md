@@ -93,7 +93,7 @@ Each application have _similar_ architecture:
 - Mappers - functions to transform one data type to another 
 - Repositories - database communication layer
 - Entities - class represents DB entity
-- Endpoints - routes mapping
+- Endpoints - routes mapping - inspired by [article](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
 - Services - business logic
 
 ### Test results
