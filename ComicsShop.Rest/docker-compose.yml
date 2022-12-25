@@ -5,7 +5,7 @@ networks:
 services:
   comics_shop_rest:
     container_name: comics_shop_rest
-    image: mcr.microsoft.com/dotnet/sdk:6.0-focal
+    image: mcr.microsoft.com/dotnet/sdk:7.0
     command: "dotnet run --urls=http://+:8093 --configuration Release"
     working_dir: /app
     networks:

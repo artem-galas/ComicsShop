@@ -1,7 +1,9 @@
 using ComicsShop.Rest.Repositories;
+using ComicsShop.Rest.Extensions;
 using MySql.Data.MySqlClient;
 using SqlKata.Compilers;
 using SqlKata.Execution;
+using Dapper;
 
 namespace ComicsShop.Rest.Database;
 
@@ -22,6 +24,9 @@ public static class Connect
                 db.Logger = compiled => { Console.WriteLine(compiled.ToString()); };
             }
 
+            SqlMapper.AddTypeHandler(new MySqlGuidTypeHandler());
+            SqlMapper.RemoveTypeMap(typeof(Guid));
+            SqlMapper.RemoveTypeMap(typeof(Guid?));
 
             return db;
         });
