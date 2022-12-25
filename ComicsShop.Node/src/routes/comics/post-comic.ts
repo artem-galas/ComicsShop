@@ -18,7 +18,7 @@ export default function postComic(fastify: FastifyInstance): RouteOptions {
         },
         handler: async (request, reply) => {
             const { body } = request;
-            const [createdId] = await comicsRepo.create(fastify, (body as Comics));
+            const [{ Id: createdId }] = await comicsRepo.create(fastify, (body as Comics));
             const comic = await comicsRepo.getById(fastify, createdId);
 
             if (comic) {

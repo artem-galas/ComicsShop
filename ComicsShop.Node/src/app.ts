@@ -1,5 +1,5 @@
 import {join} from 'path';
-import AutoLoad, {AutoloadPluginOptions} from 'fastify-autoload';
+import AutoLoad, {AutoloadPluginOptions} from '@fastify/autoload';
 import {FastifyError, FastifyPluginAsync, FastifyRequest} from 'fastify';
 import {errorMapper, isError, successMapper} from './mappers/api.mapper';
 

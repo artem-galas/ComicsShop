@@ -5,7 +5,7 @@ networks:
 services:
   comics-shop-node:
     container_name: comics_shop_node
-    image: "node:lts-alpine3.14"
+    image: "node:18.12.1-alpine"
     working_dir: /app
     networks:
       - comics_shop_network
