@@ -1,7 +1,7 @@
-import {join} from 'path';
-import AutoLoad, {AutoloadPluginOptions} from '@fastify/autoload';
-import {FastifyError, FastifyPluginAsync, FastifyRequest} from 'fastify';
-import {errorMapper, isError, successMapper} from './mappers/api.mapper';
+import { join } from 'path';
+import AutoLoad, { AutoloadPluginOptions } from '@fastify/autoload';
+import { FastifyError, FastifyPluginAsync, FastifyRequest } from 'fastify';
+import { errorMapper, isError, successMapper } from './mappers/api.mapper';
 
 export type AppOptions = {} & Partial<AutoloadPluginOptions>;
 
@@ -40,7 +40,6 @@ const app: FastifyPluginAsync<AppOptions> = async (
     })
 
     fastify.register(require('./routes/comics'));
-
 };
 
 export default app;
